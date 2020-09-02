@@ -1,0 +1,12 @@
+spring:
+  testOnReturn: false
+  redis:
+    database: 9
+    host: 119.23.72.86
+    port: 6890
+    password: Yfzn@cache8879
+    timeout: 60000
+
+server:
+  port: 8989
+
