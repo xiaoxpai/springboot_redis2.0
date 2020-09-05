@@ -2,9 +2,9 @@ spring:
   testOnReturn: false
   redis:
     database: 9
-    host: 119.23.72.86
+    host: 119.123.172.86
     port: 6890
-    password: Yfzn@cache8879
+    password: 16168879
     timeout: 60000
 
 server:
